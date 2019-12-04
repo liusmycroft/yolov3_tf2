@@ -1,0 +1,5 @@
+E:\yolo3_research/VOC_data/JPEGImages/white_grape_126.jpg 1,1,100,100,0
+E:\yolo3_research/VOC_data/JPEGImages/white_grape_292.jpg 1,1,100,100,0
+E:\yolo3_research/VOC_data/JPEGImages/white_grape_473.jpg 1,1,100,100,0
+E:\yolo3_research/VOC_data/JPEGImages/white_grape_478.jpg 1,1,100,100,0
+E:\yolo3_research/VOC_data/JPEGImages/white_grape_481.jpg 1,1,100,100,0
